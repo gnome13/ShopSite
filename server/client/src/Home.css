@@ -1,0 +1,17 @@
+ .Homediv{
+    
+
+    display: inline;
+ 
+
+} 
+img {
+    width: 33%;
+    height: auto;
+    float: left; 
+    max-width: 335px;
+    display: inline;
+  }
+  .Buttons{
+    margin: 10px;
+}
